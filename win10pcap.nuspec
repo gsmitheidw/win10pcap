@@ -5,20 +5,18 @@
     <version>10.2.5002</version>
     <packageSourceUrl>https://github.com/gsmitheidw/win10pcap</packageSourceUrl>
     <title>win10pcap (Install)</title>
-    <authors>__REPLACE_AUTHORS_OF_SOFTWARE_COMMA_SEPARATED__</authors>
+    <authors>Daiyuu Nobori</authors>
     <projectUrl>http://www.win10pcap.org/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/gsmitheidw/win10pcap/3cd5c20d/win10pcap.png</iconUrl>
-    <!-- <copyright>Year Software Vendor</copyright> -->
-    <!-- If there is a license Url available, it is required for the community feed -->
     <licenseUrl>http://www.win10pcap.org/license/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>http://www.win10pcap.org/src/</projectSourceUrl>
     <docsUrl>http://www.win10pcap.org/howto/</docsUrl>
-    <!--<mailingListUrl></mailingListUrl>-->
-    <!--<bugTrackerUrl></bugTrackerUrl>-->
+    <bugTrackerUrl>https://github.com/SoftEtherVPN/Win10Pcap/issues</bugTrackerUrl>
     <tags>win10pcap pcap wireshark</tags>
     <summary>Win10Pcap is a new WinPcap-based Ethernet packet capture library.</summary>
     <description>
+## Win10Pcap is a new WinPcap-based Ethernet packet capture library.
 Unlike original WinPcap, Win10Pcap is compatible with NDIS 6.x driver model to work stably with Windows 10. Win10Pcap also supports capturing IEEE802.1Q VLAN tags. Win10Pcap has the binary-compatibility with the original WinPcap DLLs. You can run Wireshark or other WinPcap-compatible applications with Win10Pcap by simply installing Win10Pcap DLLs, instead of original WinPcap. Win10Pcap is written as a personal project by Daiyuu Nobori, a Ph.D student of Computer Science of University of Tsukuba, Japan. The many parts of Win10Pcap was from WinPcap.
 	
 ### Win10Pcap Features
