@@ -7,7 +7,7 @@
     <title>win10pcap (Install)</title>
     <authors>Daiyuu Nobori</authors>
     <projectUrl>http://www.win10pcap.org/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/gsmitheidw/win10pcap/3cd5c20d/win10pcap.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/gsmitheidw/win10pcap@3cd5c20d/win10pcap.png</iconUrl>
     <licenseUrl>http://www.win10pcap.org/license/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>http://www.win10pcap.org/src/</projectSourceUrl>
