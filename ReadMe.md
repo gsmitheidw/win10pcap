@@ -4,4 +4,5 @@
 | Chocolatey package of Win10Pcap (WinPcap for Windows 10) |
 |--------------------------------------------------------- |
 | Win10Pcap is compatible with NDIS 6.x driver model to work stably with Windows 10. Win10Pcap also supports capturing IEEE802.1Q VLAN tags. |
-| This nupkg is being made available via Chocolatey package repositry: https://www.chocolatey.org  |
+| This is a chocolatey "recipe" which may be compiled at a later stage for https://www.chocolatey.org  |
+| Several updates are due for Windows 11 and some memory leak issues are outstanding pull requests on https://github.com/SoftEtherVPN/Win10Pcap | 
