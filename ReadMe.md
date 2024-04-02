@@ -1,4 +1,4 @@
-﻿﻿![win10pcap logo](https://cdn.rawgit.com/gsmitheidw/win10pcap/3cd5c20d/win10pcap.png "win10pcap")
+﻿﻿![win10pcap logo](https://cdn.jsdelivr.net/gh/gsmitheidw/win10pcap@3cd5c20d/win10pcap.png "win10pcap")
 # Win10Pcap
 
 | Chocolatey package of Win10Pcap (WinPcap for Windows 10) |
